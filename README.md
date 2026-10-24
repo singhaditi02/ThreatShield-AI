@@ -180,7 +180,7 @@ KDD Cup 99 is a 1999 benchmark dataset. ThreatShield AI is built for **research 
 
 ## 👤 Author
 
-**Vikas Gupta**
+**Aditi Singh**
 
 ## 📚 Acknowledgements
 
